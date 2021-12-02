@@ -1,0 +1,13 @@
+client = discord.Client()
+
+@client.event
+async def on_message(message):
+    list = ['치킨','피자','햄버거']
+    menu = random.choice(list)
+    if message.author == client.user:
+        return
+    
+    if message.content.startswith("!메뉴"):
+        await message.channel.send("뭐")
+
+client.run("ODc3MDM2MDQ0NTE4ODQ2NTM1.YRsxdw.mVrW3EVU7QNeKgcftDpdaRKLg1Q")
