@@ -1,5 +1,5 @@
 # lostark_discord_bot
-게임 로스트아크 플레이시 도움이 되는 정보와 웹크롤링
+게임 로스트아크 플레이시 도움이 되는 정보와 웹크롤링<br>
 lostark_discord_bot (using  language python)
 
 [제작관련](https://zinc-mole-8c6.notion.site/Discord-bot-making-0e425757100446909df9714a9a8d7ab4)
